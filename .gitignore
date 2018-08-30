@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Eclipse
+/.metadata/
+/RemoteSystemsTempFiles/
+Bibliotecas/.settings/language.settings.xml
+Cliente/.settings/language.settings.xml
+Servidor/.settings/language.settings.xml
